@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://github.com/duypro3000/aws-internship-report.git"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
